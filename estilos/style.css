@@ -42,7 +42,6 @@ section#loguin{
     transition: width .3s, height .3s;
     transition-timing-function: ease;
     
-    
 }
 
 section > article#img{
@@ -56,4 +55,14 @@ section > article#img{
 section > article#formulario{
     padding: 10px;
     display: block;
+}
+
+article#formulario > h1{
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+article#formulario > p {
+    font-size: 0.8em;
 }
